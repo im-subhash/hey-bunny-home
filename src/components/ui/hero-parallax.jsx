@@ -66,10 +66,10 @@ export const Header = () => {
       <div
         className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full  left-0 top-0">
         <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
-        Hey, I'm Bunny! 🐰
+        Hey, I&apos;m Bunny! 🐰
         </h1>
         <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-        I'm here to make your content creation and social media management easier than ever. ✨ With just one click, you can generate stunning posts 📸 and share them across all your platforms instantly. 🚀 Say goodbye to the hassle of juggling multiple accounts—let me do the hopping for you! 🌍💬
+        I&apos;m here to make your content creation and social media management easier than ever. ✨ With just one click, you can generate stunning posts 📸 and share them across all your platforms instantly. 🚀 Say goodbye to the hassle of juggling multiple accounts—let me do the hopping for you! 🌍💬
         </p>
      </div>
     <Image src={heroImage} alt="hero-bunny" height="750"
