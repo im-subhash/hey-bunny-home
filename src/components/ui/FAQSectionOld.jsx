@@ -10,19 +10,19 @@ const faqs = [
   },
   {
     question: 'Can I use this on my phone? 📱',
-    answer: 'Absolutely! We're mobile-friendly, so you can manage everything on the go. Your content, your rules – anywhere, anytime! 📲'
+    answer: 'Absolutely! We&apos;re mobile-friendly, so you can manage everything on the go. Your content, your rules – anywhere, anytime! 📲'
   },
   {
     question: 'How do I schedule posts across multiple platforms? 📅',
-    answer: 'Just set it up in our scheduler! Pick your platforms, set the time, and we'll handle the rest – Facebook, Instagram, Twitter? All covered! 🌐'
+    answer: 'Just set it up in our scheduler! Pick your platforms, set the time, and we&apos;ll handle the rest – Facebook, Instagram, Twitter? All covered! 🌐'
   },
   {
     question: 'Can I customize my posts? 🎨',
-    answer: 'Totally! With flexible options, you can adjust each post's design, add emojis, and make it uniquely yours. 🎉'
+    answer: 'Totally! With flexible options, you can adjust each post&apos;s design, add emojis, and make it uniquely yours. 🎉'
   },
   {
     question: 'Is it free to use? 🆓',
-    answer: 'Yes! It's completely free to use! No hidden charges, no credit card required – just sign up and start creating amazing content! 🌟'
+    answer: 'Yes! It&apos;s completely free to use! No hidden charges, no credit card required – just sign up and start creating amazing content! 🌟'
   }
 ]
 
@@ -67,7 +67,6 @@ export default function FAQSection() {
           </div>
         ))}
       </div>
-      
     </section>
   )
 }
